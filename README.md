@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flora-Salamandre
-- 👀 I’m interested in an apprenticeship in web development
+- 👀 I’m interested in a position in frontend web development
 - 🌱 I’m currently learning Java, JavaScript/Vue.js, PHP/Symfony
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me : f.strugala@yahoo.fr / linkedin.com/in/flora-strugala/
